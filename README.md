@@ -21,6 +21,7 @@ The project achieved the following performance metrics using a computer vision m
 ## Publication
 
 A paper titled **"Vision Based Realtime Active Protection System Using Deep Convolutional Neural Network"** was presented at the **Ninth International Conference on Biosignals, Images and Instrumentation** in March 2023. The project won the **Best Paper Award** at the conference.
+<img width="655" alt="apsconf" src="https://github.com/user-attachments/assets/4e91adbd-9941-4185-b1f3-e99dcb7184cd">
 
 ## Features
 
