@@ -40,7 +40,7 @@ Here you can find images of my Project Day demonstration related to the Vision-B
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/080d513d-c69f-4c25-8f96-394a557e8dc9" alt="Image 1a" style="width: 30%; height: auto; margin: 5px;">
   <img src="https://github.com/user-attachments/assets/018e92f3-001f-4357-b5f4-454d23e33b35" alt="Image 1b" style="width: 30%; height: auto; margin: 5px;">
-  <img src="https://github.com/user-attachments/assets/937d8c66-3f68-40a7-baa9-3c76b96b91f43" alt="Image 1c" style="width: 30%; height: auto; margin: 5px;">
+  <img width="1024" height="768" alt="image 1c" src="https://github.com/user-attachments/assets/d74015a5-38ea-4ca4-a214-c45374abe81b" />
   <img src="https://github.com/user-attachments/assets/263a5afc-9e51-42e9-9376-9866d3895f50" alt="Image 2" style="width: 30%; height: auto; margin: 5px;">
   <img src="https://github.com/user-attachments/assets/ef0f46c4-7fb7-4578-86a8-47fda78f3d53" alt="Image 3" style="width: 30%; height: auto; margin: 5px;">
   <img src="https://github.com/user-attachments/assets/ae2b4074-7da7-4e60-a61b-49f60b25ae5a" alt="Image 6" style="width: 30%; height: auto; margin: 5px;">
